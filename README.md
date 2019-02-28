@@ -581,6 +581,11 @@ and other multi-core embedded devices).
 [connect-redis-url]: https://www.npmjs.com/package/connect-redis
 [connect-redis-image]: https://badgen.net/github/stars/tj/connect-redis?label=%E2%98%85
 
+[![★][connect-redis-crypto-image] connect-redis-crypto][connect-redis-crypto-url] A fork of connect-redis which provides transparent encryption of session data.
+
+[connect-redis-crypto-url]: https://www.npmjs.com/package/connect-redis-crypto
+[connect-redis-crypto-image]: https://badgen.net/github/stars/jas-/connect-redis-crypto?label=%E2%98%85
+
 [![★][connect-memcached-image] connect-memcached][connect-memcached-url] A memcached-based session store.
 
 [connect-memcached-url]: https://www.npmjs.com/package/connect-memcached
@@ -624,6 +629,11 @@ and other multi-core embedded devices).
 
 [express-mysql-session-url]: https://www.npmjs.com/package/express-mysql-session
 [express-mysql-session-image]: https://badgen.net/github/stars/chill117/express-mysql-session?label=%E2%98%85
+
+[![★][connect-mysql-image] connect-mysql][connect-mysql-url] MySQL session store with pooling support & transparent crypto of session data.
+
+[connect-mysql-url]: https://www.npmjs.com/package/connect-mysql
+[connect-mysql-image]: https://badgen.net/github/stars/nlf/connect-mysql?label=%E2%98%85
 
 [![★][express-oracle-session-image] express-oracle-session][express-oracle-session-url] A session store using native
 [oracle](https://www.oracle.com/) via the [node-oracledb](https://www.npmjs.com/package/oracledb) module.
